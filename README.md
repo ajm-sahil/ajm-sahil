@@ -102,7 +102,11 @@ Hello! I'm **Abu Jubair Md Sahil**, a Computer Science and Engineering graduate 
 </td>
 
 <td width="33%" align="center" valign="middle">
-<img src="https://streak-stats.demolab.com/?user=Sahil-0009&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Sahil-0009&theme=tokyonight&hide_border=true"
+    width="100%"
+    alt="GitHub Streak"
+  />
 </td>
 
 <td width="33%" align="center" valign="middle">
