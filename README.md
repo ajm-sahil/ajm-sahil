@@ -30,11 +30,11 @@
 <!-- Profile Badges -->
 <div align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Sahil-0009&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=ajm-sahil&label=Profile%20Views&color=0e75b6&style=for-the-badge"
     alt="Profile Views"
   />
   <img
-    src="https://img.shields.io/github/followers/Sahil-0009?label=Followers&style=for-the-badge&color=blue"
+    src="https://img.shields.io/github/followers/ajm-sahil?label=Followers&style=for-the-badge&color=blue"
     alt="Followers"
   />
 </div>
@@ -98,19 +98,19 @@ Hello! I'm **Abu Jubair Md Sahil**, a Computer Science and Engineering graduate 
 <table>
 <tr>
 <td width="33%" align="center" valign="middle">
-<img src="https://github-stats-extended.vercel.app/api?username=Sahil-0009&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ajm-sahil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" alt="GitHub Stats"/>
 </td>
 
 <td width="33%" align="center" valign="middle">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Sahil-0009&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=ajm-sahil&theme=tokyonight&hide_border=true"
     width="100%"
     alt="GitHub Streak"
   />
 </td>
 
 <td width="33%" align="center" valign="middle">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sahil-0009&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="100%" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajm-sahil&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="100%" alt="Top Languages"/>
 </td>
 </tr>
 </table>
@@ -128,7 +128,7 @@ Hello! I'm **Abu Jubair Md Sahil**, a Computer Science and Engineering graduate 
 <div align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-0009&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ajm-sahil&theme=tokyo-night&hide_border=true&area=true"
     width="100%"
     alt="Sahil's GitHub Contribution Activity"
   />
@@ -143,15 +143,15 @@ Hello! I'm **Abu Jubair Md Sahil**, a Computer Science and Engineering graduate 
 
 <div align="center">
 
-<a href="https://github.com/Sahil-0009?tab=repositories">
+<a href="https://github.com/ajm-sahil?tab=repositories">
   <img src="https://img.shields.io/badge/Public_Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
 
-<a href="https://github.com/Sahil-0009?tab=stars">
+<a href="https://github.com/ajm-sahil?tab=stars">
   <img src="https://img.shields.io/badge/Starred_Projects-Explore-yellow?style=for-the-badge&logo=github" alt="Starred Projects"/>
 </a>
 
-<a href="https://github.com/Sahil-0009">
+<a href="https://github.com/ajm-sahil">
   <img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
 </a>
 
